@@ -8,11 +8,19 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aadi-1331&label=Profile%20views&color=0e75b6&style=flat" alt="aadi-1331" /> </p>
 
+<h4 align="center"><b><i>📂 My Previous GitHub Work</i></b></h4>
+
+<p align="center">
+Some of my earlier academic and personal projects (from my Bachelor's) are available on my previous GitHub profile:  
+<br>
+👉 <a href="https://github.com/AADI-1331?tab=repositories" target="_blank">Old GitHub Repositories</a>
+</p>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadi-1331" alt="aadi-1331" /></a> </p>
 
-                                           **🌱 I’m currently learning **cloud ,and some other languages**
+                                     **🌱 I’m currently learning **cloud ,and some other languages**
 
-                                               **📫 How to reach me **aadimajestic26@gmail.com**
+                                            **📫 How to reach me **s2845163@ed.ac.uk**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -29,8 +37,3 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadi-1331&show_icons=true&locale=en" alt="aadi-1331" /></p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadi-1331&" alt="aadi-1331" /></p>
-
-
-
-![WG8P](https://user-images.githubusercontent.com/78849620/135721475-59e5dc18-28bb-46ef-ab15-4ec6e514d8e5.gif)
-![WG8P](https://user-images.githubusercontent.com/78849620/135721475-59e5dc18-28bb-46ef-ab15-4ec6e514d8e5.gif)![WG8P](https://user-images.githubusercontent.com/78849620/135721475-59e5dc18-28bb-46ef-ab15-4ec6e514d8e5.gif)![WG8P](https://user-images.githubusercontent.com/78849620/135721475-59e5dc18-28bb-46ef-ab15-4ec6e514d8e5.gif)
